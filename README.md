@@ -56,9 +56,13 @@ Traditional Unet, Attention Unet VGG16 as the backbone, Unet Resnet18 as the bac
 Training Details:
 
 Loss: categorical_focal_loss
+
 Optimizer: Adam
+
 Epochs: 50
+
 Metric: MeanIOU
+
 Class Weights: [ 1.01833657,  0.37961082,  3.34285935,  0.61222313, 18.06211106,  2.52634665]
 
 Files:
