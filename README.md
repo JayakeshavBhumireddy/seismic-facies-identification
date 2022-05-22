@@ -3,7 +3,7 @@ Seismic facies analysis is one of the most difficult tasks in the oil and gas se
 
 Data:
 
-credit: https://www.aicrowd.com/challenges/seismic-facies-identification-challenge
+data source and credit: https://www.aicrowd.com/challenges/seismic-facies-identification-challenge
 
 The seismic facies analysis uses the 3D images which are created by collecting the echoes of sound waves which are sent to the ground, generally, the 3D seismic images cover 25x25 horizontal extent and 10km depth and facies are interfaces delineated by echoes in seismic images often mark boundaries between regions containing sediments deposited by different types of geological processes.
 
