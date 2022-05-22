@@ -90,7 +90,7 @@ This are the 4 models utilized to tackle this multi-class segmentation problem. 
 
 <img src='https://github.com/JayakeshavB/seismic-facies-identification/blob/main/images/Screen%20Shot%202022-05-22%20at%203.12.05%20PM.png'></img>
 
-the reaming results are shown in the modeling ipynb file.
+The modeling ipynb file contains the reaming model results.
 
 # Conclusion 
 
