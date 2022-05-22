@@ -51,7 +51,13 @@ Our training data is more useful and expressive as a result of one-hot encoding,
 
 Model Development:
 
-Traditional Unet, Attention Unet VGG16 as the backbone, Unet Resnet18 as the backbone, and Unet Inceptionv3 as the backbone are the models utilized to tackle this multi-class segmentation problem. Data augmentation is done on every model.
+Traditional Unet, 
+
+Attention Unet VGG16 as the backbone, 
+
+Unet Resnet18 as the backbone, and -
+
+Unet Inceptionv3 as the backbone are the models utilized to tackle this multi-class segmentation problem. Data augmentation is done on every model.
 
 Training Details:
 
